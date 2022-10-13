@@ -46,5 +46,5 @@ const counter = (n) => {
 };
 const [firstIncreament, internalIncreament] = counter();
 
-// firstIncreament();
-// internalIncreament();
+firstIncreament();
+internalIncreament();
